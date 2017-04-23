@@ -18,3 +18,5 @@ for (int i = 0; i < h1*w2; i++) {
 }
 printf("\n");
 ```
+
+Var arī saģenerēt matricas ar matrgen.cpp. (pievienoja: Andis)
